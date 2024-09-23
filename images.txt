@@ -1,1 +1,1 @@
-continumio/anaconda3
+continuumio/anaconda3:2024.06-1
