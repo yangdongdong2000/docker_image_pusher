@@ -1,1 +1,2 @@
 continuumio/anaconda3:2024.06-1
+nvcr.io/nvidia/nemo:24.05
